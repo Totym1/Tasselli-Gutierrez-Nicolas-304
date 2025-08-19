@@ -7,13 +7,13 @@
 * 51857 - Nicolás Pedro
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
+* [frontend app](https://github.com/PedroNicolas14/Repo-DSW-Frontend)
 * [backend app](https://github.com/Totym1/Repo-de-DSW)
 *Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
 
 ## Tema
 ### Descripción
-Tienda de indumentaria online, para realizar compras con envío a domicilio en la ciudad de Rosario. 
+Tienda de indumentaria online, para realizar compras con envío a domicilio en la ciudad de Rosario y alrededores.
 
 ### Modelo
 https://drive.google.com/file/d/16wx9dorp1LS-VKZn0KN8y0uN5ydn0qPg/view?usp=sharing
