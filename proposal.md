@@ -2,7 +2,6 @@
 
 ## Grupo
 ### Integrantes
-* 50347 - Tasselli Tomás
 * 50556 - Gutierrez Ramiro
 * 51857 - Nicolás Pedro
 
